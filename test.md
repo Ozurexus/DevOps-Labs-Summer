@@ -1,1 +1,2 @@
-This file will be reset at some point and might even disappear
+This file will be reset at some point and might even disappear.
+However, it is not certain.
